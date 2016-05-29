@@ -1,8 +1,4 @@
-# Gulp 4.0 builder with Browserify ES6(babel) and React
-
-
-
-
+# Gulp 4.0 builder with Browserify, ES6(babel) and React
 
 Getting started:
 
