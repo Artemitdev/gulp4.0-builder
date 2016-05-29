@@ -1,7 +1,7 @@
 {
   "name": "gulpl4.0-builder",
   "version": "1.0.0",
-  "author": "",
+  "author": "Ivashchenko A",
   "license": "ISC",
   "scripts": {
     "postinstall": "bower install"
